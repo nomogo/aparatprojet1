@@ -7,7 +7,7 @@ $user_data = $_SESSION['user'] ?? null;
 <head>
     <meta charset="UTF-8">
     <title>Inscription</title>
-    <script src="js/form-handler.js" defer></script>
+    <script src="form-handler.js" defer></script>
 </head>
 <body>
 <h1>Formulaire d'inscription</h1>
